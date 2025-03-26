@@ -115,3 +115,6 @@ You drag her toward the river, her feet scraping against the gravel. She pleads 
 If you want to push her into the river, go to 888.
 If you want to hear her part of the storym go to 112.
 
+983
+you scream for help and there comes a man he shoots you in the belly because he wants to sleep and you are noisy. You obviosly die
+end
