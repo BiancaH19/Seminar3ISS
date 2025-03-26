@@ -94,7 +94,7 @@ she vomits a golden key. wow!
 876 
 you indeed get lost in the woods
 983 to scream for help 732 to sleep because you are tired
-=======
+
 You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
 19 to quietly inspect the room, 78 to shout for help
 
@@ -106,6 +106,9 @@ As you bend over to take the key She grabbed you by the arm. She shapeshifted an
 You died!
 
 
+19
+YOU SEE YOUR DAD!!!!!!!!!! WHAT? He is the master mind behind all of these schananigans. He is in fact a Shapeshifter, and he was the blood fairy all this time. He makes you fight your sister(a shapeshifter too).
+What is your weapon of choice: big a sword(266), a lasso(81).
 
 
 
@@ -118,3 +121,13 @@ If you want to hear her part of the storym go to 112.
 888
 You pushed her into the river and she turned to foam. You win.
 
+
+983
+you scream for help and there comes a man he shoots you in the belly because he wants to sleep and you are noisy. You obviosly die
+end
+
+
+111
+You see an abbandoned village. A misty fog covers the surrounding.
+800 Listen your instincts and go around
+700 Go ahead and adventure in the forgotten village.
