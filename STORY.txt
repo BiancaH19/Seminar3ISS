@@ -18,7 +18,12 @@ A blood fairy stops you. It puts you before two choices: either drink the dark w
 To drinkl from the cup go to 123, to follow it go to 20.
 
 
-You hit your sister over the knee with your laptop. Your laptop screams in pain, while your sister's knee seems to be no worse for wear. She starts laughing at you, and you have a traumatic response. 101 to hit again, 3 to go back
+32
+You talk to her and she says you have 3 seconds to run away or something bad will happen
+324 tell her you want to make ammends with her 454 run away
+
+
+
 
 
 123
@@ -38,3 +43,4 @@ If you want to head north and after that to head south, go to 111
 100
 Great! now you took revenge but she hits you back and knock you down.
 09 to fight back, 76 start cryeing.
+
