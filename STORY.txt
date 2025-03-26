@@ -60,6 +60,25 @@ go to 01 to take her by the hair,
 go to 17 to kick her in the stomach.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 3
 turns out the figure followed you:(
 37 to fight it, 400 to run away
@@ -70,8 +89,15 @@ she vomits a golden key. wow!
 
 
 90
+
+
+876 
+you indeed get lost in the woods
+983 to scream for help 732 to sleep because you are tired
+=======
 You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
 19 to quietly inspect the room, 78 to shout for help
+
 
 
 
@@ -82,4 +108,13 @@ You died!
 
 19
 YOU SEE YOUR DAD!!!!!!!!!! WHAT? He is the master mind behind all of these schananigans. He is in fact a Shapeshifter, and he was the blood fairy all this time. He makes you fight your sister(a shapeshifter too).
-What is your weapon of choice: big sword(266), a lasso(81).
+What is your weapon of choice: big a sword(266), a lasso(81).
+
+
+
+
+37
+You drag her toward the river, her feet scraping against the gravel. She pleads for mercy. 
+If you want to push her into the river, go to 888.
+If you want to hear her part of the storym go to 112.
+
