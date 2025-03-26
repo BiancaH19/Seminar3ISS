@@ -12,3 +12,7 @@ there is a shallow siluete staring at you
 338 
 A blood fairy stops you. It puts you before two choices: either drink the dark water from the golden cup, or follow it to it's castle.
 To drinkl from the cup go to 123, to follow it go to 20.
+
+3
+You encountered a big horse. It stepped on you and you died
+end of story
