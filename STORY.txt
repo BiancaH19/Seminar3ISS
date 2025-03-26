@@ -17,7 +17,7 @@ you find out it is your long gone sister who made fun of you when you were littl
 A blood fairy stops you. It puts you before two choices: either drink the dark water from the golden cup, or follow it to it's castle.
 To drinkl from the cup go to 123, to follow it go to 20.
 
-100
+
 You hit your sister over the knee with your laptop. Your laptop screams in pain, while your sister's knee seems to be no worse for wear. She starts laughing at you, and you have a traumatic response. 101 to hit again, 3 to go back
 
 
@@ -33,4 +33,8 @@ To drinkl from the cup go to 123, to follow it go to 20.
 
 20
 If you want to head south and after that to head north, go to 666.
-If you want to head north and after that to head south, go to 111.
+If you want to head north and after that to head south, go to 111
+
+100
+Great! now you took revenge but she hits you back and knock you down.
+09 to fight back, 76 start cryeing.
