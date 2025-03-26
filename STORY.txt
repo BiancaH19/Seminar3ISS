@@ -6,6 +6,7 @@ you end up in a dark,scary forest :OOOO
 
 75
 there is a shallow siluete staring at you
+
 12 to follow it 3 to go back
 
 12
@@ -16,6 +17,30 @@ you find out it is your long gone sister who made fun of you when you were littl
 A blood fairy stops you. It puts you before two choices: either drink the dark water from the golden cup, or follow it to it's castle.
 To drinkl from the cup go to 123, to follow it go to 20.
 
+
 32
 You talk to her and she says you have 3 seconds to run away or something bad will happen
 324 tell her you want to make ammends with her 454 run away
+
+
+
+
+
+123
+You drank from the golden cup. The dark water made your vision blurry, you can barely see a thing. You fall to the ground and see the fairy dragging you through the forest. The rocks scratch your back, and your blood leaves a trace throughout the woods. You want to excape, pput you are paralised. What ya doing, try to escape again( go to 67), or let your eyelids guide you in a deep sleep(go to 90) ?
+To drinkl from the cup go to 123, to follow it go to 20.
+
+
+
+
+
+
+
+20
+If you want to head south and after that to head north, go to 666.
+If you want to head north and after that to head south, go to 111
+
+100
+Great! now you took revenge but she hits you back and knock you down.
+09 to fight back, 76 start cryeing.
+
