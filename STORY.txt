@@ -88,13 +88,13 @@ she vomits a golden key. wow!
 99 Take the key and leave her, 77 ask her about the key
 
 
-90
-
 
 876 
 you indeed get lost in the woods
 983 to scream for help 732 to sleep because you are tired
 
+
+90
 You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
 19 to quietly inspect the room, 78 to shout for help
 
@@ -110,7 +110,8 @@ You died!
 YOU SEE YOUR DAD!!!!!!!!!! WHAT? He is the master mind behind all of these schananigans. He is in fact a Shapeshifter, and he was the blood fairy all this time. He makes you fight your sister(a shapeshifter too).
 What is your weapon of choice: big a sword(266), a lasso(81).
 
-
+266
+You take out your big sword that your captors conveniently forgot to remove from you when they tied you up, thank god! You break yourself free and face your monstrous family. 3 to try to get answers from them or 4 to engage in battle with your sister
 
 
 37
