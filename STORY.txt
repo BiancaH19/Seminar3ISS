@@ -6,6 +6,7 @@ you end up in a dark,scary forest :OOOO
 
 75
 there is a shallow siluete staring at you
+
 12 to follow it 3 to go back
 
 12
@@ -17,6 +18,12 @@ A blood fairy stops you. It puts you before two choices: either drink the dark w
 To drinkl from the cup go to 123, to follow it go to 20.
 
 
+32
+You talk to her and she says you have 3 seconds to run away or something bad will happen
+324 tell her you want to make ammends with her 454 run away
+
+
+
 
 
 123
@@ -24,7 +31,9 @@ You drank from the golden cup. The dark water made your vision blurry, you can b
 To drinkl from the cup go to 123, to follow it go to 20.
 
 
-
+324
+You try telling her you still love her but she turn out to be a skinwalker and eats you alive. You died
+end
 
 
 
@@ -33,6 +42,21 @@ To drinkl from the cup go to 123, to follow it go to 20.
 If you want to head south and after that to head north, go to 666.
 If you want to head north and after that to head south, go to 111.
 
+=======
+If you want to head north and after that to head south, go to 111
+
+100
+Great! now you took revenge but she hits you back and knock you down.
+09 to fight back, 76 start cryeing.
+
+09
+go to 01 to take her by the hair,
+go to 17 to kick her in the stomach.
+
+
+17
+she vomits a golden key. wow!
+99 Take the key and leave her, 77 ask her about the key
 
 90
 You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 19 to quietly inspect the room, 78 to shout for help
