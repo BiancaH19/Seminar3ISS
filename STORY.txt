@@ -22,13 +22,16 @@ To drinkl from the cup go to 123, to follow it go to 20.
 You talk to her and she says you have 3 seconds to run away or something bad will happen
 324 tell her you want to make ammends with her 454 run away
 
-
+454
+you try running away and she does not bother to run after you because she knows you are stupid and you will not find you way home
+go to 876
 
 
 
 123
-You drank from the golden cup. The dark water made your vision blurry, you can barely see a thing. You fall to the ground and see the fairy dragging you through the forest. The rocks scratch your back, and your blood leaves a trace throughout the woods. You want to excape, pput you are paralised. What ya doing, try to escape again( go to 67), or let your eyelids guide you in a deep sleep(go to 90) ?
-To drinkl from the cup go to 123, to follow it go to 20.
+You drank from the golden cup. The dark water made your vision blurry, you can barely see a thing. You fall to the ground and see the fairy dragging you through the forest. The rocks scratch your back, and your blood leaves a trace throughout the woods. You want to excape, pput you are paralised. 
+What ya doing, try to escape again( go to 67), or let your eyelids guide you in a deep sleep(go to 90) ?
+
 
 
 324
@@ -40,11 +43,18 @@ end
 
 20
 If you want to head south and after that to head north, go to 666.
+If you want to head north and after that to head south, go to 111.
+
+=======
 If you want to head north and after that to head south, go to 111
 
 100
 Great! now you took revenge but she hits you back and knock you down.
 09 to fight back, 76 start cryeing.
+
+
+76
+You started crying, and you died of embarrassment. You're whole life is now forgotten by all your family and friends. Go back to 100 :D
 
 09
 go to 01 to take her by the hair,
@@ -55,7 +65,15 @@ go to 17 to kick her in the stomach.
 she vomits a golden key. wow!
 99 Take the key and leave her, 77 ask her about the key
 
+
+90
+You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
+19 to quietly inspect the room, 78 to shout for help
+
+
+
 99
 As you bend over to take the key She grabbed you by the arm. She shapeshifted and transformed into a creature that eat you.
 You died!
+
 
