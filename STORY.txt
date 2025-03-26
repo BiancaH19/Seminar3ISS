@@ -60,6 +60,25 @@ go to 01 to take her by the hair,
 go to 17 to kick her in the stomach.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 3
 turns out the figure followed you:(
 37 to fight it, 400 to run away
@@ -80,3 +99,11 @@ As you bend over to take the key She grabbed you by the arm. She shapeshifted an
 You died!
 
 
+
+
+
+
+37
+You drag her toward the river, her feet scraping against the gravel. She pleads for mercy. 
+If you want to push her into the river, go to 888.
+If you want to hear her part of the storym go to 112.
