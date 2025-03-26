@@ -127,6 +127,11 @@ you scream for help and there comes a man he shoots you in the belly because he 
 end
 
 
+732
+you try to sleep and you wake up in the middle of the night with your so called sister watching you she says: Einz zwei drei you shall die. you die 
+end
+
+
 111
 You see an abbandoned village. A misty fog covers the surrounding.
 800 Listen your instincts and go around
@@ -135,3 +140,4 @@ You see an abbandoned village. A misty fog covers the surrounding.
 700
 This village look so familiar. You have a dejavoo feeling. You see your house but it looks like the time stopped a long time ago, when you we're young.
 44 to enter the house, 66 to continue your journey
+
