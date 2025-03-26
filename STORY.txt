@@ -115,3 +115,6 @@ You drag her toward the river, her feet scraping against the gravel. She pleads 
 If you want to push her into the river, go to 888.
 If you want to hear her part of the storym go to 112.
 
+888
+You pushed her into the river and she turned to foam. You win.
+
