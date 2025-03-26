@@ -94,7 +94,7 @@ she vomits a golden key. wow!
 876 
 you indeed get lost in the woods
 983 to scream for help 732 to sleep because you are tired
-=======
+
 You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
 19 to quietly inspect the room, 78 to shout for help
 
@@ -118,17 +118,20 @@ You drag her toward the river, her feet scraping against the gravel. She pleads 
 If you want to push her into the river, go to 888.
 If you want to hear her part of the storym go to 112.
 
+888
+You pushed her into the river and she turned to foam. You win.You are free and escaped the forest by crossing the river. You learned a valuable lesson about sisters. The End!?
+
 
 983
 you scream for help and there comes a man he shoots you in the belly because he wants to sleep and you are noisy. You obviosly die
 end
 
 
-888
-You kill her! You are free and escaped the forest by crossing the river. You learned a valuable lesson about sisters. The End!?
-
 111
 You see an abbandoned village. A misty fog covers the surrounding.
 800 Listen your instincts and go around
 700 Go ahead and adventure in the forgotten village.
 
+700
+This village look so familiar. You have a dejavoo feeling. You see your house but it looks like the time stopped a long time ago, when you we're young.
+44 to enter the house, 66 to continue your journey
