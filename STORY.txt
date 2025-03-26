@@ -22,7 +22,9 @@ To drinkl from the cup go to 123, to follow it go to 20.
 You talk to her and she says you have 3 seconds to run away or something bad will happen
 324 tell her you want to make ammends with her 454 run away
 
-
+454
+you try running away and she does not bother to run after you because she knows you are stupid and you will not find you way home
+go to 876
 
 
 
