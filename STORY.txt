@@ -29,8 +29,9 @@ go to 876
 
 
 123
-You drank from the golden cup. The dark water made your vision blurry, you can barely see a thing. You fall to the ground and see the fairy dragging you through the forest. The rocks scratch your back, and your blood leaves a trace throughout the woods. You want to excape, pput you are paralised. What ya doing, try to escape again( go to 67), or let your eyelids guide you in a deep sleep(go to 90) ?
-To drinkl from the cup go to 123, to follow it go to 20.
+You drank from the golden cup. The dark water made your vision blurry, you can barely see a thing. You fall to the ground and see the fairy dragging you through the forest. The rocks scratch your back, and your blood leaves a trace throughout the woods. You want to excape, pput you are paralised. 
+What ya doing, try to escape again( go to 67), or let your eyelids guide you in a deep sleep(go to 90) ?
+
 
 
 324
@@ -51,6 +52,10 @@ If you want to head north and after that to head south, go to 111
 Great! now you took revenge but she hits you back and knock you down.
 09 to fight back, 76 start cryeing.
 
+
+76
+You started crying, and you died of embarrassment. You're whole life is now forgotten by all your family and friends. Go back to 100 :D
+
 09
 go to 01 to take her by the hair,
 go to 17 to kick her in the stomach.
@@ -60,9 +65,15 @@ go to 17 to kick her in the stomach.
 she vomits a golden key. wow!
 99 Take the key and leave her, 77 ask her about the key
 
+
 90
-You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 19 to quietly inspect the room, 78 to shout for help
+
 
 876 
 you indeed get lost in the woods
 983 to scream for help 732 to sleep because you are tired
+=======
+You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
+19 to quietly inspect the room, 78 to shout for help
+
+
