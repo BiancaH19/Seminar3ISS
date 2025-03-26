@@ -45,7 +45,6 @@ end
 If you want to head south and after that to head north, go to 666.
 If you want to head north and after that to head south, go to 111.
 
-=======
 If you want to head north and after that to head south, go to 111
 
 100
@@ -60,6 +59,29 @@ You started crying, and you died of embarrassment. You're whole life is now forg
 go to 01 to take her by the hair,
 go to 17 to kick her in the stomach.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+turns out the figure followed you:(
+37 to fight it, 400 to run away
 
 17
 she vomits a golden key. wow!
@@ -76,4 +98,20 @@ you indeed get lost in the woods
 You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
 19 to quietly inspect the room, 78 to shout for help
 
+
+
+
+99
+As you bend over to take the key She grabbed you by the arm. She shapeshifted and transformed into a creature that eat you.
+You died!
+
+
+
+
+
+
+37
+You drag her toward the river, her feet scraping against the gravel. She pleads for mercy. 
+If you want to push her into the river, go to 888.
+If you want to hear her part of the storym go to 112.
 
