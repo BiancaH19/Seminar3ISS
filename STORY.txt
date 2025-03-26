@@ -22,7 +22,9 @@ To drinkl from the cup go to 123, to follow it go to 20.
 You talk to her and she says you have 3 seconds to run away or something bad will happen
 324 tell her you want to make ammends with her 454 run away
 
-
+454
+you try running away and she does not bother to run after you because she knows you are stupid and you will not find you way home
+go to 876
 
 
 
@@ -41,6 +43,9 @@ end
 
 20
 If you want to head south and after that to head north, go to 666.
+If you want to head north and after that to head south, go to 111.
+
+=======
 If you want to head north and after that to head south, go to 111
 
 100
@@ -60,4 +65,8 @@ go to 17 to kick her in the stomach.
 she vomits a golden key. wow!
 99 Take the key and leave her, 77 ask her about the key
 
+
+90
+You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 
+19 to quietly inspect the room, 78 to shout for help
 
