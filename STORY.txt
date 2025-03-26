@@ -12,3 +12,7 @@ there is a shallow siluete staring at you
 338 
 A blood fairy stops you. It puts you before two choices: either drink the dark water from the golden cup, or follow it to it's castle.
 To drinkl from the cup go to 123, to follow it go to 20.
+
+20
+If you want to head south and after that to head north, go to 666.
+If you want to head north and after that to head south, go to 111.
