@@ -35,4 +35,4 @@ If you want to head north and after that to head south, go to 111.
 
 
 90
-You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 9 to quietly inspect the room, 78 to shout for help
+You feel your eyelids getting heavier and you lose consciousness...... You wake up! You look around you and see that you are in a room, tied to a chair. 19 to quietly inspect the room, 78 to shout for help
